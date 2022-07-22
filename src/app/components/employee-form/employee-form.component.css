@@ -1,0 +1,46 @@
+input {
+  margin-bottom: 0.5rem;
+}
+
+.form-container {
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+  overflow: auto;
+  max-height: 60vh;
+}
+
+.btn-primary{
+  background-color: #D02035 !important;
+  color: #fff !important;
+  border-color: transparent;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.62);
+}
+
+h3, label, caption, span, th {
+ color: #fff !important;
+}
+
+:root {
+   --bgFormElsFocus: hsla(188, 8%, 20%, 0.973);
+}
+
+/* .my-form {
+ background-color: #292A2C !important;
+}
+*/
+.form-control{
+  /* background-color: #292A2C !important; */
+  /* color: #fff; */
+} 
+
+/* .my-form select:focus,
+.my-form input:focus,
+.my-form textarea:focus,
+.my-form button:focus {
+  background: var(--bgFormElsFocus);
+} */
+ 
+.my-form select:focus,
+.my-form input:focus,
+.my-form textarea:focus {
+  transform: scale(1.02);
+}
