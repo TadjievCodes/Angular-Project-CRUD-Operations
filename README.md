@@ -1,3 +1,24 @@
+# Project View
+
+
+
+![OneEmpCreated](https://user-images.githubusercontent.com/61960450/180507247-f9495b79-493f-4c77-bcc2-c25dae4e5667.jpg)
+
+
+
+![UpdatingEmployee](https://user-images.githubusercontent.com/61960450/180507343-28c7be56-e5a1-4a7c-a805-bac757f080db.jpg)
+
+
+![UpdatedEmployee](https://user-images.githubusercontent.com/61960450/180507386-ec8bf060-c543-4afc-a92d-c99598d7da1f.jpg)
+
+
+
+![AddedOtherUsers](https://user-images.githubusercontent.com/61960450/180507440-811a31da-d4be-46e3-ac45-5c71e375d31a.jpg)
+
+
+![NotFound Page](https://user-images.githubusercontent.com/61960450/180507504-50d1a617-5559-468e-8132-df9ece3dac98.png)
+
+
 # AngularProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
